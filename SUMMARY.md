@@ -25,3 +25,7 @@
 * [Reference](reference/reference.md)
 * [Configuration](reference/configuration.md)
 * [Glossary](reference/glossary.md)
+
+## Help Center
+
+* [Help Center](help-center/help-center.md)
